@@ -1,0 +1,1 @@
+ไฟล์ route ใช้ `ToolLoopAgent` แบบ request-scoped เพื่อไม่แชร์ key หรือ agent ระหว่างผู้ใช้ ทุก tool มี `inputSchema`, `stepCountIs(8)`, `maxOutputTokens: 900` และ timeout 55 วินาที การตรวจ input เกิดก่อนสร้าง OpenAI model จึงไม่มี model request ระหว่าง validation

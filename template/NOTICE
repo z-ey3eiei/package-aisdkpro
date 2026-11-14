@@ -1,0 +1,5 @@
+ai-sdk.pro
+
+The landing-page composition and dark/red visual system were adapted from the user-selected repository https://github.com/z-ey3eiei/orevrkplus.site, distributed under the Apache License, Version 2.0. The original Apache-2.0 text is preserved at licenses/reference-apache-2.0.txt.
+
+Modified for ai-sdk.pro: branding and logo, product copy, Next.js implementation, typed client SDK, AI SDK 6 agents and tools, Fumadocs documentation, responsive components, and self-hosted deployment configuration. No affiliation with Vercel or the reference project's previous brand is implied.

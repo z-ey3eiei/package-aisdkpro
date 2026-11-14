@@ -1,0 +1,27 @@
+{
+  "name": "create-app-aisdkpro",
+  "version": "0.1.1",
+  "description": "Create a standalone ai-sdk.pro Streaming Chat app",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "bin": {
+    "create-app-aisdkpro": "./cli.mjs"
+  },
+  "files": [
+    "cli.mjs",
+    "template",
+    "NOTICE",
+    "licenses"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z-ey3eiei/package-aisdkpro.git"
+  },
+  "homepage": "https://github.com/z-ey3eiei/package-aisdkpro#readme",
+  "bugs": {
+    "url": "https://github.com/z-ey3eiei/package-aisdkpro/issues"
+  }
+}
